@@ -52,7 +52,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD
+git clone https://github.com/dogebot89/CheemsBot-MD
 cd CheemsBot-MD
 npm start
 ```
