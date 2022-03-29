@@ -159,13 +159,13 @@ const levelRole = getLevelingLevel(m.sender)
 	  } else if (levelRole <= 12) {
 	role = 'Platinum'
 	  } else if (levelRole <= 15) {
-	role = 'Mithril'
+	role = 'Diamond'
 	  } else if (levelRole <= 18) {
-	role = 'Orichalcum'
+	role = 'Heroik'
 	  } else if (levelRole <= 25) {
-	role = 'Adamantite'
+	role = 'Master'
 	  } else if (levelRole <= 45) {
-	role = 'Good In Game'
+	role = 'Grand-Master'
 	  }
 	
 //[Antilink]\\
