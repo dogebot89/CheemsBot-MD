@@ -64,7 +64,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD
+git clone https://github.com/dogebot89/CheemsBot-MD
 cd CheemsBot-MD
 npm start
 ```
